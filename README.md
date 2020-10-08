@@ -1,0 +1,2 @@
+# TrabalhoFinalLMD
+algoritmo de Dijkstran
